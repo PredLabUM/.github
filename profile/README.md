@@ -4,5 +4,6 @@ Welcome to the GitHub organization of PredLab at Maastricht University.
 
 **Group Leader:** Ryszard Auksztulewicz
 
-- Faculty of Psychology and Neuroscience, Maastricht University, NL
-- Department of Education and Psychology, Free University Berlin, DE
+## For lab members
+
+Please refer to the [Lab Manual](https://github.com/PredLabUM/lab-manual) for practical information and guidelines on working in PredLab, including onboarding, project organization, research workflows, and use of this GitHub organization.
